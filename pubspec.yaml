@@ -1,0 +1,8 @@
+name: logic
+
+dependencies:
+  http:
+
+environment:
+  sdk: '^3.3.0'
+
